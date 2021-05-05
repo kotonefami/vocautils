@@ -11,7 +11,7 @@ EN | <a href="https://github.com/kotonefami/vocautils/blob/master/README.ja.md">
 </p>
 
 ## Requirements
-* >= Python 2.7 (But 2.7 is not supported. It is recommended to use Python 3.)
+* \>= Python 2.7 (But 2.7 is not supported. It is recommended to use Python 3.)
 
 ## Installation
 ```sh
