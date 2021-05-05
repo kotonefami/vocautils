@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-<a href="https://github.com/kotonefami/vocautils/blob/master/README.md">EN</a> | JA
+<a href="https://github.com/kotonefami/vocautils/blob/main/README.md">EN</a> | JA
 </p>
 
 ## 必要

@@ -7,7 +7,7 @@ Useful command line tool for <b>VOCALOID</b> and <b>VOICEROID</b>.
 ---
 
 <p align="center">
-EN | <a href="https://github.com/kotonefami/vocautils/blob/master/README.ja.md">JA</a>
+EN | <a href="https://github.com/kotonefami/vocautils/blob/main/README.ja.md">JA</a>
 </p>
 
 ## Requirements
